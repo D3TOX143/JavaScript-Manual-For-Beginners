@@ -145,7 +145,7 @@ All variables first point to stack. If it is not primitive value, the stack cont
 
 #### Garbage Collection
 
-JavaScript not only allocate memory for objects, they also release the memory. Once the variable or a function is nor required anymore, JavaScript releases the memory it occupied.
+JavaScript not only allocates memory for objects, they also release the memory. Once the variable or a function is not required anymore, JavaScript releases the memory it occupied.
 
 ## Execution Context
 
